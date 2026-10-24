@@ -1,0 +1,5 @@
+Project: Customer Churn Analysis
+Type: Independent portfolio / learning project
+Dataset: Synthetic practice data (1,000 rows)
+Tools: Python, pandas, Matplotlib, SQL
+Entry point: src/analyze_churn.py
